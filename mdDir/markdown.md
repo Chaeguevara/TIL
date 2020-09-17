@@ -74,7 +74,7 @@ $ git init
     - 가능하면 상ㄷ재ㅓㄱ 위치
     - Auto escape
 
-![IMG_4801](md-images/IMG_4801.jpg)
+![IMG_4801](../md-images/IMG_4801.jpg)
 
 
 
